@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+}
+body{
+    color:rgb(115, 243, 243);
+    background-color: rgb(87, 108, 179);
+    text-align: center;
+}
+div{
+    background-color: rgb(8, 133, 40);
+    font-size: 20px;
+    background-size: 20px;
+}
+.Cmanzana{
+    font-size: 28px;
+}
+.Cagua{
+    font-size: 28px;
+}
+.Cpalta{
+    font-size: 28px;
+}
+.Cerrarsesion{
+    font-size: 28px;
+}
+.buttonM{
+    background-color: rgb(241, 52, 52);
+}
+.buttonA{
+    background-color: rgb(60, 146, 245);
+}
+.buttonP{
+    background-color: chartreuse;
+}
+.buttonC{
+    background-color: rgb(32, 255, 125);
+}

@@ -1,0 +1,25 @@
+.igmail{
+    font-size: 20px;
+    color: rgb(180, 109, 15);
+}
+.icontraseña{
+    font-size: 20px;
+    color: rgb(180, 109, 15);
+}
+body{
+    color:teal;
+    background-color: rgb(123, 134, 121);
+    text-align: center;
+}
+div{
+    background-color: darkseagreen;
+    font-size: 20px;
+    background-size: 20px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+.button{
+    background-color: rgb(153, 170, 187);
+}

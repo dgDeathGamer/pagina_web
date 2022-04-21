@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(20, 167, 20);
+    font-size: 20px;
+}
+body{
+    background-color: rgb(20, 19, 20);
+}
+.button{
+    background-color: rgb(63, 31, 13);
+    font-size: 20px;
+}
+.buttonvolver{
+    background-color: rgb(255, 115, 0);
+}
